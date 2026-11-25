@@ -1,0 +1,1 @@
+{"description":"One line roasting my fridge: it diagnoses its own faulty door sensor, books a technician, then locks him out.","license":"MIT","name":"one-line-one-laugh-roast-your-fridge","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
